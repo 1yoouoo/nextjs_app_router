@@ -32,7 +32,6 @@ export async function generateMetadata({
           alt: "나도 자기소개서 쓰러가기",
         },
       ],
-      url: "/og",
     },
   };
 }
